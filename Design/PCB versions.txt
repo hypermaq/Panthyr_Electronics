@@ -3,10 +3,11 @@ Communications PCB
 ************************
 v0.1 -> v0.2
 - C1: value changed to 1uF (to assure ESD performance, see datasheet MAX13433EESD+)
-- J3: Silkscreen changed (swapped Tx+ and Tx-  to correct mistake), added signal direction arrows
-- J3: added a SHIELD connection, through ferrite and 100R to gnd
--  F1: changed to 500mA version, has lower Rtyp
--  Via style changed to 0.04/0.06"
+- J3: Silkscreen changed (swapped Tx+ and Tx- to correct mistake), added signal direction arrows
+- J3: added a SHIELD connection, through ferrite and 100R to GND
+- F1: changed to 500mA version, has lower Rtyp
+- Via style changed to 0.04/0.06"
+- Added resistors to TTYO1 and TTYO2 (leakage to ground through serial lines)
 
 
 
