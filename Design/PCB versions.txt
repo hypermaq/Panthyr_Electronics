@@ -8,6 +8,8 @@ v0.1 -> v0.2
 - F1: changed to 500mA version, has lower Rtyp
 - Via style changed to 0.04/0.06"
 - Added resistors to TTYO1 and TTYO2 (leakage to ground through serial lines)
+- Footprint test points
+- Thermals on ground pour: 4 spokes
 
 
 
@@ -21,3 +23,8 @@ v0.1 -> v0.2
 - Footprints MOSFET: silkscreen larger
 - Resistors LED's: Value set to 5k6 (visible at 12V in direct light)
 - Via style changed to 0.04/0.06"
+- Added power button
+- Added reset button
+- Footprint test points
+- Thermals on ground pour: 4 spokes
+- Added J17: GPIO
