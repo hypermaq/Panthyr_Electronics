@@ -31,3 +31,13 @@ v0.1 -> v0.2
 - Changed silkscreen: "Outputs are high side switched" should be "... low side..."
 - 100R gate resistors on all FETs
 - Corrected footprints for PTCs. 2920 and 1812 series have different sizes
+
+************************
+Power PCB
+************************
+v0.2 -> v0.3
+- F2-7: 1.1 1812 fuses instead of 2920 (lower resistance)
+- Mosfets replaced with TC4427_UA MOSFET drivers
+- Silkscreen updated
+- Added power and reset buttons 
+- Lots of static GND vias
