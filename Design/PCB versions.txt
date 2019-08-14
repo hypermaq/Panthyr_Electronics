@@ -12,8 +12,6 @@ v0.1 -> v0.2
 - Thermals on ground pour: 4 spokes
 - Added option to use ttyO5 as RS232
 
-
-
 ************************
 Power PCB
 ************************
@@ -41,3 +39,19 @@ v0.2 -> v0.3
 - Silkscreen updated
 - Added power and reset buttons 
 - Lots of static GND vias
+- P9_14 is GPIO 50 instead of GPIO 40
+- Added Opamp circuits to measure VBat (<26Vdc)
+
+************************
+Topside PCB
+************************
+v0.1 -> v0.2
+- Larger silkscreen for LED's (polarity seems inverted when small silk is printed)
+- Input voltage range added
+- input cap (C18) changed from 35V to 50V
+- U4 (LM2937IMP-10/NOPB LDO) replaced by 2383012 (SOT263 footprint)
+- Added Hypermaq logo
+- C12/C13 replaced with correct values (10pF instead of 10uF)
+- Added UART4
+- Removed useless test points
+- Added switch to select top or bottom

@@ -1,0 +1,22 @@
+Line width silkscreen: 10 mil is ruim
+Font size 8 (12 mil) is goed voor belangrijke markeringen
+Font size 6 (9.2 mil) is nog goed leesbaar
+Font size 5 (7.7 mil) goed leesbaar bij degelijke belichting
+
+Silkscreen kan gemakkelijk 10 mil verschuiven tov pads
+
+Spacing traces/pads: 10 mil is ruim
+
+Vias van 50/30 mogen waarschijnlijk 60/40 worden
+
+Pads van 0.6 x 1mm zijn limiet om met hand te solderen
+
+Sommige (belangrijke) pads ook silkscreen aan onderzijde geven?
+
+LEDS resistors (E24):
+//////////////////////////////
+Voltage / resistance / remarks
+//////////////////////////////
+3.3V    /   (1k5)    / Calulated, not yet checked
+5.0V    /   (2k4)    / Calulated, not yet checked
+12V     /    5k6     / visible at 12V in direct light (+/- 2mA)

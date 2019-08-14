@@ -1,0 +1,12 @@
+Component identification:		
+        
+Capacitor		
+        
+Name:		CAP_1411_15uF_20V_electrolyte
+RefDes		C
+Value		15 uF
+Manufacturer	AVX
+Datasheet		https://be.farnell.com/avx/tpsb156k020r0500/cap-15-f-20v-10-smd/dp/1658514?st=TPSB156K020R0500
+Dielectric		Electrolyte/X5R/Tantalum
+Farnell		1655851
+Manufacturer name		TPSB156K020R0500
