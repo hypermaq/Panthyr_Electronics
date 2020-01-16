@@ -42,6 +42,30 @@ v0.2 -> v0.3
 - P9_14 is GPIO 50 instead of GPIO 40
 - Added Opamp circuits to measure VBat (<26Vdc)
 
+v0.3 -> v0.4
+- Potmeter/resistor divider for Vbat in to opamp
+- Output 5 driven by pin P8_39 instead of P8_43. Pulling P8_43 (or P8_41) low makes the BBB not boot
+- Corrected Opamp U1/U2 footprint and routing
+- Different FET drivers, and separate FETS.
+- HIGH SIDE SWITCHING!
+
+v0.4 -> v0.5
+- Batt in did not work for floating power supplies (GND batt != GND electronics)
+- Replaced by INA168NA/3K high side current sense
+- Added Batt neg terminal
+- Battery terminals are fused
+- footprint opamps was not correct
+- Using TPS26601RHFT eFuse to power outputs and limit current
+- 
+
+v0.5 -> v0.6
+- Added correct resistor values for OVP/UVP on TPS
+- Added correct resistor value for R17 (voltage gain of INA168NA/3K)
+- Enlarged floating ground planes under TPS where possible
+- Changed LED current limiting resistors to higher value (was too bright at 12/24V)
+- 
+
+
 ************************
 Topside PCB
 ************************
@@ -55,3 +79,26 @@ v0.1 -> v0.2
 - Added UART4
 - Removed useless test points
 - Added switch to select top or bottom
+
+v0.2 -> v0.3
+- U4 (LDO for Ramses) replaced with BD90c0AFPS-E2, c26 and c27 replaced with 2.2uF 50V 0805 caps
+- Clean up some silkscreens
+- component silkscreen for orange 180deg connector now shows orientation
+- TODO: change hole dim for camera (updated iam)
+
+************************
+Power PCB
+************************
+v0.1 -> v0.2
+- Mounting hole dimensions to 3.5mm ID to compensate for solder mask thickness
+- 
+
+************************
+IR demo PCB
+************************
+v0.1 -> v0.2
+- separate resistors for red and green
+- corrected footprint for LED
+- other footprint drawn for edge mount SUB-9 connectors (closer pin spacing)
+- reordered test point positions and silkscreen
+- added silkscreen showing red/green mark/space
