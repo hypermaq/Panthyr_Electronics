@@ -1,0 +1,21028 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$ANGDIR
+  70
+0
+  9
+$CECOLOR
+  62
+256
+  9
+$CELTYPE
+  6
+BYLAYER
+  9
+$EXTMIN
+  10
+0.0
+  20
+0.0
+  9
+$EXTMAX
+  10
+234.0
+  20
+144.0
+  9
+$FILLMODE
+  70
+1
+  9
+$MIRRTEXT
+  70
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LAYER
+  70
+17
+  0
+LAYER
+  2
+Board_Outline
+  70
+64
+  62
+13
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.8019
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.7531
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+61.6578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.753
+  20
+62.3537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+62.3536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.802
+  20
+61.6577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+60.79
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0001
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+60.79
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+15.0177
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.4019
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.3531
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+15.0176
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+31.0578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.353
+  20
+31.7537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+31.7536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.402
+  20
+31.0577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+30.19
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6001
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+30.19
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.4019
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.3531
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+61.6578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.353
+  20
+62.3537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+62.3536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.402
+  20
+61.6577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+60.79
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6001
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+60.79
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+15.0177
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.8019
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.7531
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+15.0176
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+31.0578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.753
+  20
+31.7537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+31.7536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.802
+  20
+31.0577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+30.19
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0001
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+30.19
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.0
+  20
+128.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.8019
+  20
+127.1322
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.247
+  20
+126.4363
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.4451
+  20
+126.0501
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.555
+  20
+126.0501
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+18.7531
+  20
+126.4363
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+18.1981
+  20
+127.1322
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+18.0
+  20
+128.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+18.1981
+  20
+128.8678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+18.753
+  20
+129.5637
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.555
+  20
+129.9499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.4451
+  20
+129.9499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.247
+  20
+129.5636
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.802
+  20
+128.8677
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.0
+  20
+128.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.9999
+  20
+128.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.0001
+  20
+128.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.9999
+  20
+128.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0787
+  20
+108.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+107.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+108.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.75
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+111.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+111.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+111.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0788
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+109.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2501
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+109.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0787
+  20
+33.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+32.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+33.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.75
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+36.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0788
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+34.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2501
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+34.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.4725
+  20
+129.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.4177
+  20
+127.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.2539
+  20
+126.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.96
+  20
+125.9112
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.608
+  20
+124.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.1328
+  20
+124.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+68.5626
+  20
+123.1222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+67.9039
+  20
+122.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+67.1638
+  20
+121.5685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+66.3503
+  20
+120.9099
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+65.4726
+  20
+120.3398
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+64.5399
+  20
+119.8646
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+63.5627
+  20
+119.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+62.5516
+  20
+119.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+61.5178
+  20
+119.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+60.4726
+  20
+119.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+59.4272
+  20
+119.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+58.3934
+  20
+119.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+57.3824
+  20
+119.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+56.4052
+  20
+119.8645
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+55.4726
+  20
+120.3397
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+54.5947
+  20
+120.9099
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+53.7812
+  20
+121.5685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+53.0411
+  20
+122.3086
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+52.3824
+  20
+123.1221
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.8123
+  20
+124.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.3371
+  20
+124.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.9619
+  20
+125.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.691
+  20
+126.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.5273
+  20
+127.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.4726
+  20
+129.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.5272
+  20
+130.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.691
+  20
+131.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.9619
+  20
+132.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.337
+  20
+133.0674
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.8122
+  20
+134.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+52.3823
+  20
+134.8779
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+53.0411
+  20
+135.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+53.7812
+  20
+136.4315
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+54.5946
+  20
+137.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+55.4726
+  20
+137.6603
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+56.4052
+  20
+138.1355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+57.3824
+  20
+138.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+58.3934
+  20
+138.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+59.4272
+  20
+138.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+60.4726
+  20
+139.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+61.5178
+  20
+138.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+62.5516
+  20
+138.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+63.5627
+  20
+138.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+64.5399
+  20
+138.1355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+65.4726
+  20
+137.6602
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+66.3504
+  20
+137.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+67.1638
+  20
+136.4314
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+67.904
+  20
+135.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+68.5627
+  20
+134.8778
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.1328
+  20
+134.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.608
+  20
+133.0674
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.9831
+  20
+132.0901
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.254
+  20
+131.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.4177
+  20
+130.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.4726
+  20
+129.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.4724
+  20
+129.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.4726
+  20
+129.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.4724
+  20
+129.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.0
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.8287
+  20
+135.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.341
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.6111
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.75
+  20
+133.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.889
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.159
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.6713
+  20
+135.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.5
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.6713
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.159
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.889
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.75
+  20
+138.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.6111
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.341
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.8288
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.0
+  20
+136.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.9999
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.0001
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.9999
+  20
+136.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0787
+  20
+108.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+107.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+108.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.75
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+111.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+111.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+111.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0788
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+109.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2501
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+109.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0787
+  20
+33.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+32.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+33.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.75
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+36.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0788
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+34.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2501
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+34.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+8.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3287
+  20
+7.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+6.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+5.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+5.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+5.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+6.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+7.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.0
+  20
+8.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+8.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+9.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+10.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+10.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+10.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+9.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3288
+  20
+8.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+8.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+8.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5001
+  20
+8.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+8.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+72.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0787
+  20
+71.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+70.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+69.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+69.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+69.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+70.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+71.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.75
+  20
+72.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+72.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+73.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+74.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+74.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+74.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+73.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0788
+  20
+72.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+72.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+72.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2501
+  20
+72.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+72.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3287
+  20
+135.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+133.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+135.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.0
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+138.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3288
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+136.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5001
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+136.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.8019
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.7531
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+61.6578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.753
+  20
+62.3537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+62.3536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.802
+  20
+61.6577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+60.79
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0001
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+60.79
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+15.0177
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.4019
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.3531
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+15.0176
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+31.0578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.353
+  20
+31.7537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+31.7536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.402
+  20
+31.0577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+30.19
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6001
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+30.19
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.4019
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.3531
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+61.6578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.353
+  20
+62.3537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+62.3536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.402
+  20
+61.6577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+60.79
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6001
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+60.79
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+15.0177
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.8019
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.7531
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+15.0176
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+31.0578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.753
+  20
+31.7537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+31.7536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.802
+  20
+31.0577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+30.19
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0001
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+30.19
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+100.0
+  20
+99.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9452
+  20
+97.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.7815
+  20
+96.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.5106
+  20
+95.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.8525
+  20
+94.32
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.535
+  20
+93.685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.0902
+  20
+93.1222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+97.4315
+  20
+92.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+96.6913
+  20
+91.5686
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.8779
+  20
+90.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.0
+  20
+90.3398
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+94.0674
+  20
+89.8646
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+93.0902
+  20
+89.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+92.0791
+  20
+89.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+91.0453
+  20
+89.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+90.0
+  20
+89.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+88.9548
+  20
+89.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+87.9209
+  20
+89.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+86.9099
+  20
+89.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.9327
+  20
+89.8645
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.0
+  20
+90.3397
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+84.1222
+  20
+90.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+83.3087
+  20
+91.5685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+82.5686
+  20
+92.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.9099
+  20
+93.1221
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.3398
+  20
+94.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.8646
+  20
+94.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.4895
+  20
+95.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.2186
+  20
+96.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.0548
+  20
+97.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.0
+  20
+99.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.0548
+  20
+100.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.2185
+  20
+101.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.4894
+  20
+102.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.8646
+  20
+103.0674
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.3398
+  20
+104.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.9098
+  20
+104.8779
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+82.5686
+  20
+105.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+83.3087
+  20
+106.4315
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+84.1222
+  20
+107.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.0
+  20
+107.6603
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.9327
+  20
+108.1355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+86.9099
+  20
+108.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+87.9209
+  20
+108.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+88.9547
+  20
+108.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+90.0
+  20
+109.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+91.0453
+  20
+108.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+92.0792
+  20
+108.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+93.0902
+  20
+108.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+94.0674
+  20
+108.1354
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.0
+  20
+107.6602
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.8779
+  20
+107.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+96.6913
+  20
+106.4314
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+97.4315
+  20
+105.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.0902
+  20
+104.8778
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.6603
+  20
+104.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.1355
+  20
+103.0673
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.5106
+  20
+102.0901
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.7815
+  20
+101.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9453
+  20
+100.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+100.0
+  20
+99.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9999
+  20
+99.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+100.0001
+  20
+99.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9999
+  20
+99.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+40.0
+  20
+99.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.9452
+  20
+97.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.7815
+  20
+96.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.5106
+  20
+95.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.1355
+  20
+94.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+38.6603
+  20
+94.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+38.0902
+  20
+93.1222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+37.575
+  20
+92.415
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+36.6913
+  20
+91.5686
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+35.8779
+  20
+90.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+35.0
+  20
+90.3398
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+34.0674
+  20
+89.8646
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+33.0902
+  20
+89.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+32.0791
+  20
+89.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+31.0453
+  20
+89.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+30.0
+  20
+89.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+28.9548
+  20
+89.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+27.9209
+  20
+89.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+26.9099
+  20
+89.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+25.9327
+  20
+89.8645
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+25.0
+  20
+90.3397
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.1222
+  20
+90.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.3087
+  20
+91.5685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.5686
+  20
+92.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.9099
+  20
+93.1221
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.3398
+  20
+94.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.8646
+  20
+94.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.4895
+  20
+95.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.2186
+  20
+96.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.0548
+  20
+97.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.0
+  20
+99.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.0548
+  20
+100.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.2185
+  20
+101.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.4894
+  20
+102.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.8646
+  20
+103.0674
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.3398
+  20
+104.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.9098
+  20
+104.8779
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.5686
+  20
+105.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.3087
+  20
+106.4315
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.1222
+  20
+107.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+25.0
+  20
+107.6603
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+25.9327
+  20
+108.1355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+26.9099
+  20
+108.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+27.9209
+  20
+108.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+28.9547
+  20
+108.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+30.0
+  20
+109.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+31.0453
+  20
+108.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+32.0792
+  20
+108.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+33.0902
+  20
+108.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+34.0674
+  20
+108.1354
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+35.0
+  20
+107.6602
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+35.8779
+  20
+107.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+36.6913
+  20
+106.4314
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+37.4315
+  20
+105.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+38.0902
+  20
+104.8778
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+38.6603
+  20
+104.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.1355
+  20
+103.0673
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.5106
+  20
+102.0901
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.7815
+  20
+101.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.9453
+  20
+100.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+40.0
+  20
+99.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.9999
+  20
+99.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+40.0001
+  20
+99.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.9999
+  20
+99.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.0
+  20
+99.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.9452
+  20
+97.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.7815
+  20
+96.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.5106
+  20
+95.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.1355
+  20
+94.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+68.5312
+  20
+93.685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+68.0902
+  20
+93.1222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+67.4315
+  20
+92.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+66.6913
+  20
+91.5686
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+65.8779
+  20
+90.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+65.0
+  20
+90.3398
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+64.0674
+  20
+89.8646
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+63.0902
+  20
+89.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+62.0791
+  20
+89.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+61.0453
+  20
+89.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+60.0
+  20
+89.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+58.9548
+  20
+89.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+57.9209
+  20
+89.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+56.9099
+  20
+89.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+55.9327
+  20
+89.8645
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+55.0
+  20
+90.3397
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+54.1222
+  20
+90.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+53.3087
+  20
+91.5685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+52.5686
+  20
+92.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.9099
+  20
+93.1221
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.3398
+  20
+94.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.8646
+  20
+94.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.4895
+  20
+95.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.2186
+  20
+96.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.0548
+  20
+97.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.0
+  20
+99.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.0548
+  20
+100.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.2185
+  20
+101.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.4894
+  20
+102.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.8646
+  20
+103.0674
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.3398
+  20
+104.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.9098
+  20
+104.8779
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+52.5686
+  20
+105.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+53.3087
+  20
+106.4315
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+54.1222
+  20
+107.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+55.0
+  20
+107.6603
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+55.9327
+  20
+108.1355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+56.9099
+  20
+108.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+57.9209
+  20
+108.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+58.9547
+  20
+108.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+60.0
+  20
+109.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+61.0453
+  20
+108.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+62.0792
+  20
+108.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+63.0902
+  20
+108.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+64.0674
+  20
+108.1354
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+65.0
+  20
+107.6602
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+65.8779
+  20
+107.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+66.6913
+  20
+106.4314
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+67.4315
+  20
+105.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+68.0902
+  20
+104.8778
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+68.6603
+  20
+104.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.1355
+  20
+103.0673
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.5106
+  20
+102.0901
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.7815
+  20
+101.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.9453
+  20
+100.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.0
+  20
+99.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.9999
+  20
+99.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.0001
+  20
+99.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.9999
+  20
+99.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+100.0
+  20
+129.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9452
+  20
+127.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.7815
+  20
+126.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.4875
+  20
+125.9112
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.1355
+  20
+124.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.6603
+  20
+124.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.0902
+  20
+123.1222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+97.4315
+  20
+122.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+96.6913
+  20
+121.5686
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.8779
+  20
+120.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.0
+  20
+120.3398
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+94.0674
+  20
+119.8646
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+93.0902
+  20
+119.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+92.0791
+  20
+119.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+91.0453
+  20
+119.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+90.0
+  20
+119.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+88.9548
+  20
+119.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+87.9209
+  20
+119.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+86.9099
+  20
+119.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.9327
+  20
+119.8645
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.0
+  20
+120.3397
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+84.1222
+  20
+120.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+83.3087
+  20
+121.5685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+82.5686
+  20
+122.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.9099
+  20
+123.1221
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.3398
+  20
+124.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.8646
+  20
+124.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.4895
+  20
+125.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.2186
+  20
+126.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.0548
+  20
+127.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.0
+  20
+129.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.0548
+  20
+130.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.2185
+  20
+131.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.4894
+  20
+132.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.8646
+  20
+133.0674
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.3398
+  20
+134.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.9098
+  20
+134.8779
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+82.5686
+  20
+135.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+83.3087
+  20
+136.4315
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+84.1222
+  20
+137.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.0
+  20
+137.6603
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.9327
+  20
+138.1355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+86.9099
+  20
+138.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+87.9209
+  20
+138.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+88.9547
+  20
+138.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+90.0
+  20
+139.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+91.0453
+  20
+138.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+92.0792
+  20
+138.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+93.0902
+  20
+138.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+94.0674
+  20
+138.1354
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.0
+  20
+137.6602
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.8779
+  20
+137.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+96.6913
+  20
+136.4314
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+97.4315
+  20
+135.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.0902
+  20
+134.8778
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.6603
+  20
+134.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.1355
+  20
+133.0673
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.5106
+  20
+132.0901
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.7815
+  20
+131.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9453
+  20
+130.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+100.0
+  20
+129.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9999
+  20
+129.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+100.0001
+  20
+129.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9999
+  20
+129.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+161.325
+  20
+98.895
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+161.1964
+  20
+98.0005
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+160.821
+  20
+97.1785
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+160.2292
+  20
+96.4955
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+159.469
+  20
+96.0069
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+158.6019
+  20
+95.7523
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+157.6982
+  20
+95.7523
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+156.8311
+  20
+96.0069
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+156.0709
+  20
+96.4955
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+155.4791
+  20
+97.1784
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+155.1036
+  20
+98.0005
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+154.975
+  20
+98.895
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+155.1036
+  20
+99.7895
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+155.479
+  20
+100.6115
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+156.0708
+  20
+101.2945
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+156.8311
+  20
+101.7831
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+157.6982
+  20
+102.0377
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+158.6019
+  20
+102.0377
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+159.469
+  20
+101.7831
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+160.2292
+  20
+101.2945
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+160.821
+  20
+100.6115
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+161.1964
+  20
+99.7895
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+161.325
+  20
+98.895
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+161.3249
+  20
+98.895
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+161.3251
+  20
+98.895
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+161.3249
+  20
+98.895
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0787
+  20
+108.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+107.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+108.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.75
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.4237
+  20
+110.9887
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+111.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.6462
+  20
+111.3062
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0788
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+109.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2501
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+109.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0787
+  20
+33.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+32.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+33.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.75
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+36.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0788
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+34.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2501
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+34.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+72.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0787
+  20
+71.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+70.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+69.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+69.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+69.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+70.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+71.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.75
+  20
+72.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+72.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+73.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+74.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+74.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+74.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+73.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0788
+  20
+72.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+72.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+72.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2501
+  20
+72.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+72.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.0
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.8287
+  20
+135.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.341
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.6111
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.75
+  20
+133.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.889
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.159
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.6713
+  20
+135.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.5
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.6713
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.159
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.889
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.75
+  20
+138.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.6111
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.341
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.8288
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.0
+  20
+136.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.9999
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.0001
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.9999
+  20
+136.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0787
+  20
+108.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+107.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+108.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.75
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+111.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+111.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+111.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0788
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+109.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2501
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+109.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0787
+  20
+33.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+32.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+33.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.75
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+36.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0788
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+34.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2501
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+34.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+8.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3287
+  20
+7.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+6.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+5.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+5.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+5.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+6.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+7.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.0
+  20
+8.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+8.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+9.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+10.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+10.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+10.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+9.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3288
+  20
+8.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+8.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+8.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5001
+  20
+8.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+8.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+72.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0787
+  20
+71.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+70.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+69.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+69.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+69.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+70.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+71.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.75
+  20
+72.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+72.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+73.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+74.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+74.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+74.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+73.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0788
+  20
+72.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+72.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+72.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2501
+  20
+72.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+72.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3287
+  20
+135.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+133.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+135.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.0
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+138.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3288
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+136.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5001
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+136.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.14
+  41
+0.14
+  0
+VERTEX
+  8
+Board_Outline
+  10
+108.49
+  20
+2.2223
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+108.9831
+  20
+3.0969
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+109.5658
+  20
+3.9145
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+110.2316
+  20
+4.6661
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+110.9729
+  20
+5.3432
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+111.7815
+  20
+5.9383
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+112.6485
+  20
+6.4448
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+113.564
+  20
+6.8569
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+114.518
+  20
+7.17
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+115.4996
+  20
+7.3808
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+116.498
+  20
+7.4867
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+117.502
+  20
+7.4867
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+118.5004
+  20
+7.3808
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+119.4821
+  20
+7.17
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+120.436
+  20
+6.8568
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+121.3516
+  20
+6.4447
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+122.2185
+  20
+5.9383
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.0272
+  20
+5.3432
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7685
+  20
+4.6661
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.4342
+  20
+3.9145
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.0169
+  20
+3.0969
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.51
+  20
+2.2223
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.8983
+  20
+1.5934
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.3957
+  20
+1.0467
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.9852
+  20
+0.6008
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6466
+  20
+0.2709
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+128.3574
+  20
+0.0683
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+129.0934
+  20
+0.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.0
+  20
+0.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.8901
+  20
+0.1004
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.7355
+  20
+0.3962
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.4939
+  20
+0.8728
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.1272
+  20
+1.5061
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.6038
+  20
+2.2645
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.8997
+  20
+3.1099
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0
+  20
+4.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0
+  20
+14.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0511
+  20
+14.8882
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.201
+  20
+15.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.4393
+  20
+15.5607
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.75
+  20
+15.799
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+228.1118
+  20
+15.9489
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+228.5
+  20
+16.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+230.0
+  20
+16.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+230.8901
+  20
+16.1004
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+231.7355
+  20
+16.3962
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+232.4939
+  20
+16.8728
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+233.1272
+  20
+17.5061
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+233.6038
+  20
+18.2645
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+233.8997
+  20
+19.1099
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+234.0
+  20
+20.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+234.0
+  20
+124.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+233.8997
+  20
+124.8901
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+233.6038
+  20
+125.7355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+233.1272
+  20
+126.4939
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+232.4939
+  20
+127.1272
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+231.7355
+  20
+127.6038
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+230.8901
+  20
+127.8996
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+230.0
+  20
+128.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+228.5
+  20
+128.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+228.1118
+  20
+128.0511
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.75
+  20
+128.2009
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.4393
+  20
+128.4393
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.201
+  20
+128.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0511
+  20
+129.1117
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0
+  20
+129.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0
+  20
+140.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.8997
+  20
+140.8901
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.6038
+  20
+141.7355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.1272
+  20
+142.4939
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.4939
+  20
+143.1272
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.7355
+  20
+143.6038
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.8901
+  20
+143.8996
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.0
+  20
+144.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+129.0933
+  20
+144.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+128.3574
+  20
+143.9317
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6466
+  20
+143.7291
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.9851
+  20
+143.3992
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.3957
+  20
+142.9533
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.8983
+  20
+142.4065
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.51
+  20
+141.7776
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.0169
+  20
+140.9031
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.4342
+  20
+140.0855
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7685
+  20
+139.3339
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.0271
+  20
+138.6568
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+122.2185
+  20
+138.0617
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+121.3516
+  20
+137.5553
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+120.436
+  20
+137.1432
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+119.4821
+  20
+136.83
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+118.5004
+  20
+136.6192
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+117.502
+  20
+136.5133
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+116.498
+  20
+136.5133
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+115.4996
+  20
+136.6192
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+114.518
+  20
+136.83
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+113.564
+  20
+137.1431
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+112.6485
+  20
+137.5552
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+111.7816
+  20
+138.0617
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+110.9729
+  20
+138.6568
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+110.2316
+  20
+139.3339
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+109.5659
+  20
+140.0854
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+108.9832
+  20
+140.9031
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+108.49
+  20
+141.7776
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+108.1017
+  20
+142.4066
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+107.6043
+  20
+142.9533
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+107.0149
+  20
+143.3992
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+106.3535
+  20
+143.7291
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+105.6426
+  20
+143.9316
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+104.9067
+  20
+144.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0
+  20
+144.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.1099
+  20
+143.8997
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.2645
+  20
+143.6038
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.5061
+  20
+143.1272
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.8728
+  20
+142.4939
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.3962
+  20
+141.7355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.1004
+  20
+140.89
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.0
+  20
+140.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.0
+  20
+129.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9489
+  20
+129.1118
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.799
+  20
+128.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.5607
+  20
+128.4393
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.25
+  20
+128.201
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+5.8883
+  20
+128.0511
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+5.5
+  20
+128.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+4.0
+  20
+128.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+3.1099
+  20
+127.8997
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+2.2645
+  20
+127.6038
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+1.5061
+  20
+127.1272
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+0.8728
+  20
+126.4939
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+0.3962
+  20
+125.7355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+0.1004
+  20
+124.89
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+0.0
+  20
+124.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+0.0
+  20
+20.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+0.1004
+  20
+19.1099
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+0.3962
+  20
+18.2645
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+0.8728
+  20
+17.5061
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+1.5061
+  20
+16.8728
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+2.2645
+  20
+16.3962
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+3.11
+  20
+16.1003
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+4.0
+  20
+16.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+5.5
+  20
+16.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+5.8882
+  20
+15.9489
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.25
+  20
+15.799
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.5607
+  20
+15.5606
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.7991
+  20
+15.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9489
+  20
+14.8882
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.0
+  20
+14.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.0
+  20
+4.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.1004
+  20
+3.1099
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.3962
+  20
+2.2645
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.8728
+  20
+1.5061
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.5061
+  20
+0.8728
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.2645
+  20
+0.3962
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.11
+  20
+0.1003
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0
+  20
+0.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+104.9067
+  20
+0.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+105.6426
+  20
+0.0684
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+106.3534
+  20
+0.2709
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+107.0149
+  20
+0.6008
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+107.6043
+  20
+1.0467
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+108.1017
+  20
+1.5934
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+108.49
+  20
+2.2223
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.8019
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.7531
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+61.6578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.753
+  20
+62.3537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+62.3536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.802
+  20
+61.6577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+60.79
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0001
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+60.79
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+15.0177
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.4019
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.3531
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+15.0176
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+31.0578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.353
+  20
+31.7537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+31.7536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.402
+  20
+31.0577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+30.19
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6001
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+30.19
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.4019
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.3531
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+61.6578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.353
+  20
+62.3537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+62.3536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.402
+  20
+61.6577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+60.79
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6001
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+60.79
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+15.0177
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.8019
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.7531
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+15.0176
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+31.0578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.753
+  20
+31.7537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+31.7536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.802
+  20
+31.0577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+30.19
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0001
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+30.19
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.0
+  20
+128.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.8019
+  20
+127.1322
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.247
+  20
+126.4363
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.4451
+  20
+126.0501
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.555
+  20
+126.0501
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+18.7531
+  20
+126.4363
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+18.1981
+  20
+127.1322
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+18.0
+  20
+128.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+18.1981
+  20
+128.8678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+18.753
+  20
+129.5637
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.555
+  20
+129.9499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.4451
+  20
+129.9499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.247
+  20
+129.5636
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.802
+  20
+128.8677
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.0
+  20
+128.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.9999
+  20
+128.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.0001
+  20
+128.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.9999
+  20
+128.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0787
+  20
+108.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+107.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+108.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.75
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+111.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+111.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+111.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0788
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+109.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2501
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+109.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0787
+  20
+33.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+32.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+33.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.75
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+36.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0788
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+34.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2501
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+34.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.4725
+  20
+129.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.4177
+  20
+127.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.2539
+  20
+126.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.96
+  20
+125.9112
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.608
+  20
+124.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.1328
+  20
+124.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+68.5626
+  20
+123.1222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+67.9039
+  20
+122.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+67.1638
+  20
+121.5685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+66.3503
+  20
+120.9099
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+65.4726
+  20
+120.3398
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+64.5399
+  20
+119.8646
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+63.5627
+  20
+119.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+62.5516
+  20
+119.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+61.5178
+  20
+119.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+60.4726
+  20
+119.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+59.4272
+  20
+119.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+58.3934
+  20
+119.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+57.3824
+  20
+119.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+56.4052
+  20
+119.8645
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+55.4726
+  20
+120.3397
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+54.5947
+  20
+120.9099
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+53.7812
+  20
+121.5685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+53.0411
+  20
+122.3086
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+52.3824
+  20
+123.1221
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.8123
+  20
+124.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.3371
+  20
+124.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.9619
+  20
+125.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.691
+  20
+126.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.5273
+  20
+127.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.4726
+  20
+129.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.5272
+  20
+130.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.691
+  20
+131.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.9619
+  20
+132.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.337
+  20
+133.0674
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.8122
+  20
+134.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+52.3823
+  20
+134.8779
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+53.0411
+  20
+135.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+53.7812
+  20
+136.4315
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+54.5946
+  20
+137.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+55.4726
+  20
+137.6603
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+56.4052
+  20
+138.1355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+57.3824
+  20
+138.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+58.3934
+  20
+138.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+59.4272
+  20
+138.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+60.4726
+  20
+139.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+61.5178
+  20
+138.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+62.5516
+  20
+138.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+63.5627
+  20
+138.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+64.5399
+  20
+138.1355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+65.4726
+  20
+137.6602
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+66.3504
+  20
+137.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+67.1638
+  20
+136.4314
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+67.904
+  20
+135.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+68.5627
+  20
+134.8778
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.1328
+  20
+134.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.608
+  20
+133.0674
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.9831
+  20
+132.0901
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.254
+  20
+131.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.4177
+  20
+130.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.4726
+  20
+129.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.4724
+  20
+129.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.4726
+  20
+129.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.4724
+  20
+129.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.0
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.8287
+  20
+135.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.341
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.6111
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.75
+  20
+133.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.889
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.159
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.6713
+  20
+135.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.5
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.6713
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.159
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.889
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.75
+  20
+138.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.6111
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.341
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.8288
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.0
+  20
+136.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.9999
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.0001
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.9999
+  20
+136.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0787
+  20
+108.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+107.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+108.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.75
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+111.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+111.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+111.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0788
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+109.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2501
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+109.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0787
+  20
+33.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+32.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+33.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.75
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+36.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0788
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+34.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2501
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+34.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+8.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3287
+  20
+7.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+6.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+5.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+5.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+5.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+6.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+7.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.0
+  20
+8.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+8.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+9.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+10.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+10.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+10.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+9.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3288
+  20
+8.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+8.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+8.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5001
+  20
+8.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+8.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+72.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0787
+  20
+71.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+70.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+69.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+69.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+69.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+70.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+71.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.75
+  20
+72.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+72.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+73.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+74.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+74.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+74.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+73.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0788
+  20
+72.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+72.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+72.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2501
+  20
+72.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+72.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3287
+  20
+135.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+133.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+135.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.0
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+138.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3288
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+136.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5001
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+136.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.8019
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.7531
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+61.6578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.753
+  20
+62.3537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+62.3536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.802
+  20
+61.6577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+60.79
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0001
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+60.79
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+15.0177
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.4019
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.3531
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+15.0176
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+31.0578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.353
+  20
+31.7537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+31.7536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.402
+  20
+31.0577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+30.19
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6001
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+30.19
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.4019
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+43.8401
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.3531
+  20
+44.2263
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+44.9222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+45.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.6
+  20
+60.79
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+123.7981
+  20
+61.6578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+124.353
+  20
+62.3537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+125.155
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.0451
+  20
+62.7399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+126.847
+  20
+62.3536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.402
+  20
+61.6577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6
+  20
+60.79
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.6001
+  20
+60.79
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+127.5999
+  20
+60.79
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+15.0177
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.8019
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+13.0678
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.7531
+  20
+13.454
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+14.1499
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+15.0176
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.0
+  20
+30.19
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.1981
+  20
+31.0578
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+204.753
+  20
+31.7537
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+205.555
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+206.4451
+  20
+32.1399
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.247
+  20
+31.7536
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.802
+  20
+31.0577
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0
+  20
+30.19
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+208.0001
+  20
+30.19
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+207.9999
+  20
+30.19
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+100.0
+  20
+99.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9452
+  20
+97.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.7815
+  20
+96.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.5106
+  20
+95.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.8525
+  20
+94.32
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.535
+  20
+93.685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.0902
+  20
+93.1222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+97.4315
+  20
+92.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+96.6913
+  20
+91.5686
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.8779
+  20
+90.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.0
+  20
+90.3398
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+94.0674
+  20
+89.8646
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+93.0902
+  20
+89.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+92.0791
+  20
+89.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+91.0453
+  20
+89.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+90.0
+  20
+89.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+88.9548
+  20
+89.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+87.9209
+  20
+89.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+86.9099
+  20
+89.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.9327
+  20
+89.8645
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.0
+  20
+90.3397
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+84.1222
+  20
+90.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+83.3087
+  20
+91.5685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+82.5686
+  20
+92.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.9099
+  20
+93.1221
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.3398
+  20
+94.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.8646
+  20
+94.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.4895
+  20
+95.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.2186
+  20
+96.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.0548
+  20
+97.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.0
+  20
+99.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.0548
+  20
+100.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.2185
+  20
+101.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.4894
+  20
+102.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.8646
+  20
+103.0674
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.3398
+  20
+104.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.9098
+  20
+104.8779
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+82.5686
+  20
+105.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+83.3087
+  20
+106.4315
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+84.1222
+  20
+107.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.0
+  20
+107.6603
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.9327
+  20
+108.1355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+86.9099
+  20
+108.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+87.9209
+  20
+108.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+88.9547
+  20
+108.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+90.0
+  20
+109.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+91.0453
+  20
+108.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+92.0792
+  20
+108.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+93.0902
+  20
+108.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+94.0674
+  20
+108.1354
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.0
+  20
+107.6602
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.8779
+  20
+107.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+96.6913
+  20
+106.4314
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+97.4315
+  20
+105.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.0902
+  20
+104.8778
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.6603
+  20
+104.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.1355
+  20
+103.0673
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.5106
+  20
+102.0901
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.7815
+  20
+101.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9453
+  20
+100.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+100.0
+  20
+99.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9999
+  20
+99.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+100.0001
+  20
+99.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9999
+  20
+99.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+40.0
+  20
+99.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.9452
+  20
+97.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.7815
+  20
+96.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.5106
+  20
+95.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.1355
+  20
+94.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+38.6603
+  20
+94.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+38.0902
+  20
+93.1222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+37.575
+  20
+92.415
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+36.6913
+  20
+91.5686
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+35.8779
+  20
+90.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+35.0
+  20
+90.3398
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+34.0674
+  20
+89.8646
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+33.0902
+  20
+89.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+32.0791
+  20
+89.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+31.0453
+  20
+89.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+30.0
+  20
+89.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+28.9548
+  20
+89.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+27.9209
+  20
+89.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+26.9099
+  20
+89.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+25.9327
+  20
+89.8645
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+25.0
+  20
+90.3397
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.1222
+  20
+90.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.3087
+  20
+91.5685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.5686
+  20
+92.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.9099
+  20
+93.1221
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.3398
+  20
+94.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.8646
+  20
+94.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.4895
+  20
+95.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.2186
+  20
+96.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.0548
+  20
+97.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.0
+  20
+99.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.0548
+  20
+100.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.2185
+  20
+101.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.4894
+  20
+102.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.8646
+  20
+103.0674
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.3398
+  20
+104.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.9098
+  20
+104.8779
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.5686
+  20
+105.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.3087
+  20
+106.4315
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.1222
+  20
+107.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+25.0
+  20
+107.6603
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+25.9327
+  20
+108.1355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+26.9099
+  20
+108.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+27.9209
+  20
+108.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+28.9547
+  20
+108.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+30.0
+  20
+109.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+31.0453
+  20
+108.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+32.0792
+  20
+108.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+33.0902
+  20
+108.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+34.0674
+  20
+108.1354
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+35.0
+  20
+107.6602
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+35.8779
+  20
+107.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+36.6913
+  20
+106.4314
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+37.4315
+  20
+105.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+38.0902
+  20
+104.8778
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+38.6603
+  20
+104.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.1355
+  20
+103.0673
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.5106
+  20
+102.0901
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.7815
+  20
+101.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.9453
+  20
+100.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+40.0
+  20
+99.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.9999
+  20
+99.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+40.0001
+  20
+99.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+39.9999
+  20
+99.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.0
+  20
+99.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.9452
+  20
+97.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.7815
+  20
+96.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.5106
+  20
+95.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.1355
+  20
+94.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+68.5312
+  20
+93.685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+68.0902
+  20
+93.1222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+67.4315
+  20
+92.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+66.6913
+  20
+91.5686
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+65.8779
+  20
+90.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+65.0
+  20
+90.3398
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+64.0674
+  20
+89.8646
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+63.0902
+  20
+89.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+62.0791
+  20
+89.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+61.0453
+  20
+89.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+60.0
+  20
+89.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+58.9548
+  20
+89.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+57.9209
+  20
+89.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+56.9099
+  20
+89.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+55.9327
+  20
+89.8645
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+55.0
+  20
+90.3397
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+54.1222
+  20
+90.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+53.3087
+  20
+91.5685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+52.5686
+  20
+92.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.9099
+  20
+93.1221
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.3398
+  20
+94.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.8646
+  20
+94.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.4895
+  20
+95.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.2186
+  20
+96.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.0548
+  20
+97.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.0
+  20
+99.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.0548
+  20
+100.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.2185
+  20
+101.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.4894
+  20
+102.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+50.8646
+  20
+103.0674
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.3398
+  20
+104.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+51.9098
+  20
+104.8779
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+52.5686
+  20
+105.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+53.3087
+  20
+106.4315
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+54.1222
+  20
+107.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+55.0
+  20
+107.6603
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+55.9327
+  20
+108.1355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+56.9099
+  20
+108.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+57.9209
+  20
+108.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+58.9547
+  20
+108.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+60.0
+  20
+109.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+61.0453
+  20
+108.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+62.0792
+  20
+108.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+63.0902
+  20
+108.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+64.0674
+  20
+108.1354
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+65.0
+  20
+107.6602
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+65.8779
+  20
+107.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+66.6913
+  20
+106.4314
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+67.4315
+  20
+105.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+68.0902
+  20
+104.8778
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+68.6603
+  20
+104.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.1355
+  20
+103.0673
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.5106
+  20
+102.0901
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.7815
+  20
+101.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.9453
+  20
+100.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.0
+  20
+99.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.9999
+  20
+99.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+70.0001
+  20
+99.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+69.9999
+  20
+99.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+100.0
+  20
+129.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9452
+  20
+127.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.7815
+  20
+126.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.4875
+  20
+125.9112
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.1355
+  20
+124.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.6603
+  20
+124.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.0902
+  20
+123.1222
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+97.4315
+  20
+122.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+96.6913
+  20
+121.5686
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.8779
+  20
+120.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.0
+  20
+120.3398
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+94.0674
+  20
+119.8646
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+93.0902
+  20
+119.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+92.0791
+  20
+119.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+91.0453
+  20
+119.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+90.0
+  20
+119.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+88.9548
+  20
+119.0548
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+87.9209
+  20
+119.2185
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+86.9099
+  20
+119.4894
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.9327
+  20
+119.8645
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.0
+  20
+120.3397
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+84.1222
+  20
+120.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+83.3087
+  20
+121.5685
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+82.5686
+  20
+122.3087
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.9099
+  20
+123.1221
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.3398
+  20
+124.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.8646
+  20
+124.9326
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.4895
+  20
+125.9098
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.2186
+  20
+126.9209
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.0548
+  20
+127.9547
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.0
+  20
+129.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.0548
+  20
+130.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.2185
+  20
+131.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.4894
+  20
+132.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+80.8646
+  20
+133.0674
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.3398
+  20
+134.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+81.9098
+  20
+134.8779
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+82.5686
+  20
+135.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+83.3087
+  20
+136.4315
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+84.1222
+  20
+137.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.0
+  20
+137.6603
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+85.9327
+  20
+138.1355
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+86.9099
+  20
+138.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+87.9209
+  20
+138.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+88.9547
+  20
+138.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+90.0
+  20
+139.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+91.0453
+  20
+138.9452
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+92.0792
+  20
+138.7815
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+93.0902
+  20
+138.5106
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+94.0674
+  20
+138.1354
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.0
+  20
+137.6602
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+95.8779
+  20
+137.0902
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+96.6913
+  20
+136.4314
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+97.4315
+  20
+135.6913
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.0902
+  20
+134.8778
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+98.6603
+  20
+134.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.1355
+  20
+133.0673
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.5106
+  20
+132.0901
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.7815
+  20
+131.0791
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9453
+  20
+130.0453
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+100.0
+  20
+129.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9999
+  20
+129.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+100.0001
+  20
+129.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+99.9999
+  20
+129.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+161.325
+  20
+98.895
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+161.1964
+  20
+98.0005
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+160.821
+  20
+97.1785
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+160.2292
+  20
+96.4955
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+159.469
+  20
+96.0069
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+158.6019
+  20
+95.7523
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+157.6982
+  20
+95.7523
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+156.8311
+  20
+96.0069
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+156.0709
+  20
+96.4955
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+155.4791
+  20
+97.1784
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+155.1036
+  20
+98.0005
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+154.975
+  20
+98.895
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+155.1036
+  20
+99.7895
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+155.479
+  20
+100.6115
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+156.0708
+  20
+101.2945
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+156.8311
+  20
+101.7831
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+157.6982
+  20
+102.0377
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+158.6019
+  20
+102.0377
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+159.469
+  20
+101.7831
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+160.2292
+  20
+101.2945
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+160.821
+  20
+100.6115
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+161.1964
+  20
+99.7895
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+161.325
+  20
+98.895
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+161.3249
+  20
+98.895
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+161.3251
+  20
+98.895
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+161.3249
+  20
+98.895
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0787
+  20
+108.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+107.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+108.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.75
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.4237
+  20
+110.9887
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+111.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.6462
+  20
+111.3062
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0788
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+109.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2501
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+109.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0787
+  20
+33.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+32.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+33.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.75
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+36.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0788
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+34.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2501
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+34.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+72.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0787
+  20
+71.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+70.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+69.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+69.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+69.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+70.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+71.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.75
+  20
+72.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+72.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+73.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+74.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+74.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+74.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+73.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0788
+  20
+72.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+72.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+72.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2501
+  20
+72.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+72.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.0
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.8287
+  20
+135.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.341
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.6111
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.75
+  20
+133.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.889
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.159
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.6713
+  20
+135.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.5
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+19.6713
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.159
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+20.889
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+21.75
+  20
+138.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+22.6111
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.341
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.8288
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.0
+  20
+136.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.9999
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+24.0001
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+23.9999
+  20
+136.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0787
+  20
+108.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+107.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+107.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+107.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+108.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.75
+  20
+109.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+111.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+111.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+111.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+111.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0788
+  20
+110.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+109.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2501
+  20
+109.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+109.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0787
+  20
+33.639
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+32.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+32.4213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+32.909
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+33.6389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.75
+  20
+34.5
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+6.9213
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+7.409
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+8.139
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.0
+  20
+36.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+9.8611
+  20
+36.5787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+10.591
+  20
+36.091
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.0788
+  20
+35.361
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.25
+  20
+34.5
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2501
+  20
+34.5
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+11.2499
+  20
+34.5
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+8.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3287
+  20
+7.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+6.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+5.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+5.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+5.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+6.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+7.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.0
+  20
+8.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+8.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+9.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+10.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+10.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+10.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+9.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3288
+  20
+8.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+8.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+8.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5001
+  20
+8.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+8.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+72.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0787
+  20
+71.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+70.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+69.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+69.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+69.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+70.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+71.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.75
+  20
+72.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+222.9213
+  20
+72.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+223.409
+  20
+73.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+224.139
+  20
+74.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.0
+  20
+74.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+225.8611
+  20
+74.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+226.591
+  20
+73.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.0788
+  20
+72.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.25
+  20
+72.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+72.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2501
+  20
+72.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+227.2499
+  20
+72.0
+  42
+1
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0003
+  41
+0.0003
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3287
+  20
+135.139
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+133.75
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+133.9213
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+134.409
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+135.1389
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.0
+  20
+136.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.1713
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+210.659
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+211.389
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+212.25
+  20
+138.25
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.1111
+  20
+138.0787
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+213.841
+  20
+137.591
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.3288
+  20
+136.861
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5
+  20
+136.0
+  42
+0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0002
+  41
+0.0002
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.5001
+  20
+136.0
+  42
+1
+  0
+VERTEX
+  8
+Board_Outline
+  10
+214.4999
+  20
+136.0
+  42
+1
+  0
+SEQEND
+  0
+ENDSEC
+  0
+EOF

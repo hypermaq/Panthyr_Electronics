@@ -12,6 +12,10 @@ v0.1 -> v0.2
 - Thermals on ground pour: 4 spokes
 - Added option to use ttyO5 as RS232
 
+v0.2 -> v0.3
+- Updated to use new libraries
+- Removed useless fuse F1
+
 ************************
 Power PCB
 ************************
@@ -30,9 +34,6 @@ v0.1 -> v0.2
 - 100R gate resistors on all FETs
 - Corrected footprints for PTCs. 2920 and 1812 series have different sizes
 
-************************
-Power PCB
-************************
 v0.2 -> v0.3
 - F2-7: 1.1 1812 fuses instead of 2920 (lower resistance)
 - Mosfets replaced with TC4427_UA MOSFET drivers
@@ -63,8 +64,10 @@ v0.5 -> v0.6
 - Added correct resistor value for R17 (voltage gain of INA168NA/3K)
 - Enlarged floating ground planes under TPS where possible
 - Changed LED current limiting resistors to higher value (was too bright at 12/24V)
-- 
 
+v0.6 -> v0.7
+- Updated to use new libraries
+- corrected series resistors for orange leds (24V)
 
 ************************
 Topside PCB
@@ -84,17 +87,40 @@ v0.2 -> v0.3
 - U4 (LDO for Ramses) replaced with BD90c0AFPS-E2, c26 and c27 replaced with 2.2uF 50V 0805 caps
 - Clean up some silkscreens
 - component silkscreen for orange 180deg connector now shows orientation
-- TODO: change hole dim for camera (updated iam)
+- hole for camera mounting bolt is enlarged to correct diameter
+- additional cable gland for rain sensor
+- more space between cable glands
+
+v0.3 -> v0.4
+- Updated to use new libraries
+- Replaced led current limiting resistors with correct values
+- Replaced I2C pullup resistors with correct values
+- Replaced RTC Xtal with SMD version
+- Added headers and mounting holes for I2C sensor board
+- To make room for I2C sensor board: moved a lot if parts/traces
 
 ************************
 Power PCB
 ************************
 v0.1 -> v0.2
 - Mounting hole dimensions to 3.5mm ID to compensate for solder mask thickness
-- 
+
+
 
 ************************
-IR demo PCB
+Bottomside
+************************
+v0.2 -> v0.3
+- Updated to use new libraries
+- Replaced led current limiting resistors with correct values
+- Replaced I2C pullup resistors with correct values
+- Replaced RTC Xtal with SMD version
+- Added headers and mounting holes for I2C sensor board
+- To make room for I2C sensor board: moved a lot if parts/traces
+
+
+************************
+Serial box PCB
 ************************
 v0.1 -> v0.2
 - separate resistors for red and green
@@ -102,3 +128,13 @@ v0.1 -> v0.2
 - other footprint drawn for edge mount SUB-9 connectors (closer pin spacing)
 - reordered test point positions and silkscreen
 - added silkscreen showing red/green mark/space
+
+v0.2 -> v0.3
+- resistor red changed from 470R to 5k6
+- resistor green changed from 470R to 220R
+
+************************
+Adapter board PCB
+************************
+v0.1 -> v0.2
+- swapped tx/rx on the GNSS_COMM port to be in line with the mux board
